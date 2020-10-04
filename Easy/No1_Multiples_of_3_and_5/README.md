@@ -13,6 +13,6 @@ Multiples of 3 include 3, 6, 9, 12, **15**...
 Multiples of 5 include 5, 10, **15**...
 
 #### Explanation
-3 and 5 share a common multiple: 15. This means summing all multiples of 3 and all multiples of 5 will _double count_ multiples of 15. Therefore, we must subtract all multiples of 15.
+3 and 5 share a common multiple: **15**. This means summing all multiples of 3 and all multiples of 5 will _double count_ multiples of 15. Therefore, we must subtract all multiples of 15.
 
 
