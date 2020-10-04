@@ -1,6 +1,6 @@
 # Multiples of 3 and 5
 
-## [Problem][https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem]
+## [Problem](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
 **TL;DR** Print the sum of all multiples of 3 and 5 up to number **_n_**
 
 ## My Solution
