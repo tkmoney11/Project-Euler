@@ -12,6 +12,7 @@ _10/3/2020_
 ProjectEuler+ is a HackerRank contest that is "open indefinitely." It comprises over 240 algorithmic problems at the time of this writing (10/3/2020). I am using this contest to hone my problem solving skills and document my progress.
 
 <img src='ProjectEuler.gif' title='Project Euler' width='' alt='Project Euler' />
-_GIF created with [LiceCap][http://www.cockos.com/licecap/]_
+GIF created with LiceCap
 
 [hackerRankWebsite]: https://www.hackerrank.com/
+[licecapWebsite]: https://www.cockos.com/licecap/
