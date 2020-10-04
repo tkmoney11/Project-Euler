@@ -9,7 +9,9 @@
 **TL;DR** Add multiples of 3, add all multiples of 5, **_subtract all multiples of 15_**
 
 **"Visual"** 
+
 Multiples of 3 include 3, 6, 9, 12, **15**...
+
 Multiples of 5 include 5, 10, **15**...
 
 **Explanation**
