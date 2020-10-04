@@ -1,9 +1,7 @@
 # Multiples of 3 and 5
 
-## Problem
+## [Problem][https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem]
 **TL;DR** Print the sum of all multiples of 3 and 5 up to number **_n_**
-
-<img src='Multiples.PNG' title='Multiples of 3 and 5' width='' alt='Multiples of 3 and 5' />
 
 ## My Solution
 **TL;DR** Add multiples of 3, add all multiples of 5, **_subtract all multiples of 15_**
