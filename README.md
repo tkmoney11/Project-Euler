@@ -2,8 +2,8 @@
 _A [HackerRank][hackerRankWebsite] contest_
 
 ## Rank
-**Current Rank:** 71966
-**Problems Solved:** 1
+**Current Rank:** 31810
+**Problems Solved:** 3
 _10/3/2020_
 
 ## Overview
