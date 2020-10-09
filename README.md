@@ -2,7 +2,7 @@
 _A [HackerRank][hackerRankWebsite] contest_
 
 ## Rank
-<<<<<<< HEAD
+
 **Current Rank:** 31810
 
 **Problems Solved:** 3
